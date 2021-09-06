@@ -16,6 +16,11 @@ To get the Node server running locally:
 Open [database](https://drive.google.com/drive/folders/1ZudpwJK8P7ZcpjNFFodHQkYs13S3GNFa?usp=sharing)
 
 
+## Open Docs Performance
+
+Open [Docs](https://elastic-fly-b74.notion.site/9eb41f7aec33452bb3479b591aeb0949?v=aa4cc2f9792a453db6b71b00ccfeadb3)
+
+
 ## Folder Structure
 
     ├── controllers                    
@@ -80,6 +85,3 @@ user endpoint
 when put under a domain with `prefix`, it would look like:
 
     https://www.example.com/news-app/api/users
-# News-app-back-end
-# news-app-back-end
-# News-app-back-end
